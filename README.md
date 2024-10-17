@@ -21,10 +21,10 @@
 - **Framworks**:
 
    ![Next.js](https://img.shields.io/badge/Next-%23E34F26.svg?style=for-the-badge&logo=nextjs&logoColor=white)
- ![React](https://img.shields.io/badge/React-%23E34F26.svg?style=for-the-badge&logo=react&logoColor=blue)
- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%23E34F26.svg?style=for-the-badge&logo=tailwind&logoColor=white)
- ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23E34F26.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
- ![Angular](https://img.shields.io/badge/Angular-%23E34F26.svg?style=for-the-badge&logo=angular&logoColor=white)
+ ![React](https://img.shields.io/badge/React-%23327FC7.svg?style=for-the-badge&logo=react&logoColor=blue)
+ ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%234285F4.svg?style=for-the-badge&logo=tailwind&logoColor=white)
+ ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23054020.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+ ![Angular](https://img.shields.io/badge/Angular-%23327FC7.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 <br>
 
@@ -32,7 +32,7 @@
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Vercel](https://img.shields.io/badge/Vercel-%23327FC7.svg?style=for-the-badge&logo=vercel&logoColor=green)
-    ![Netlify](https://img.shields.io/badge/Netlify-%23327FC7.svg?style=for-the-badge&logo=netlify&logoColor=red)
+    ![Netlify](https://img.shields.io/badge/Netlify-%23E34F26.svg?style=for-the-badge&logo=netlify&logoColor=red)
     
 <br>
 
