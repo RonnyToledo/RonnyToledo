@@ -39,3 +39,16 @@
 
 </p>
 
+	
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
+
+- :school: I am a `Junior` at [Faculty of Ing Electric]((https://www.uclv.edu.cu/facultades/facultad-de-ingenieria-electrica/)) at ["Marta Abreu" University (UCLV)](https://www.uclv.edu.cu/).
+- :technologist: I love using Software as a solution for every `Problem`.
+- :student: I am currently learning `Ing. Automatic'.
+- :nerd_face: Always `learning new things`.
+<br>
+
