@@ -1,4 +1,4 @@
-![Banner](https://www.facebook.com/photo/?fbid=315412657727009&set=a.109628778305399)
+![Banner](https://www.facebook.com/photo/?fbid=315412657727009&set=a.109628778305399/)
 
 <h1 align="center"><b>Hi , I'm Ronny Toledo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
