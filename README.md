@@ -21,9 +21,9 @@
 - **Framworks**:
 
    ![Next.js](https://img.shields.io/badge/Next-%23E34F26.svg?style=for-the-badge&logo=nextjs&logoColor=white)
- ![React](https://img.shields.io/badge/React-%23327FC7.svg?style=for-the-badge&logo=react&logoColor=blue)
+ ![React](https://img.shields.io/badge/React-%23054020.svg?style=for-the-badge&logo=react&logoColor=blue)
  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%234285F4.svg?style=for-the-badge&logo=tailwind&logoColor=white)
- ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23054020.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+ ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23327FC7.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
  ![Angular](https://img.shields.io/badge/Angular-%23327FC7.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 <br>
