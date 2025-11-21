@@ -72,7 +72,7 @@
 <h3 align="center">Derivatto</h3>
 <div align="center">
 <a href="https://github.com/RonnyToledo/Derivatto" target="_blank"><img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
-<a href="https://derivatto.expo.app" target="_blank"><img src="https://img.shields.io/badge/-DEMO-green?style=for-the-badge&color=3fFD7f"></a>
+<a href="https://derivatto.expo.app" target="_blank">Ver web<a>
 </div>
 <p><strong>Next.js, TailwindCSS</strong> - Gamified application for teaching university mathematics concepts to students.</p>
 </td>
@@ -81,7 +81,7 @@
 <h3 align="center">RouMenu</h3>
 <div align="center">
 <a href="https://github.com/RonnyToledo/rouMenu" target="_blank"><img src="https://res.cloudinary.com/dbgnyc842/image/upload/c_crop,w_600,h_600,ar_1:1/v1763566308/Identidades/Generated_Image_November_19_2025_-_10_19AM_1_inwecg.png"></a>
-<a href="https://roumenu.vercel.app" target="_blank"><img src="https://res.cloudinary.com/dbgnyc842/image/upload/c_crop,w_600,h_600,ar_1:1/v1763566308/Identidades/Generated_Image_November_19_2025_-_10_19AM_1_inwecg.png"></a>
+<a href="https://roumenu.vercel.app" target="_blank">Ver web</a>
 </div>
 <p><strong>Next.js, TailwindCSS</strong> - Website for online product catalogs for selling products to customers, with shopping cart, reviews, CEO and marketing strategies.</p>
 </td>
@@ -92,7 +92,7 @@
 <h3 align="center">RouAdmin</h3>
 <div align="center">
 <a href="https://github.com/RonnyToledo/adminWebShop" target="_blank"><img src="https://res.cloudinary.com/dbgnyc842/image/upload/c_crop,w_600,h_600,ar_1:1/v1763566308/Identidades/Generated_Image_November_19_2025_-_10_19AM_1_inwecg.png"></a>
-<a href="https://rouadmin.vercel.app" target="_blank"><img src="https://res.cloudinary.com/dbgnyc842/image/upload/c_crop,w_600,h_600,ar_1:1/v1763566308/Identidades/Generated_Image_November_19_2025_-_10_19AM_1_inwecg.png"></a>
+<a href="https://rouadmin.vercel.app" target="_blank">Ver web</a>
 </div>
 <p><strong>Next.js, TailwindCSS</strong> - Catalog control system for store administrators with services in RouMenu.</p>
 </td>
@@ -101,7 +101,7 @@
 <h3 align="center">JlosCosmetics Blog</h3>
 <div align="center">
 <a href="https://github.com/RonnyToledo/jlo" target="_blank"><img src="https://jloscosmetic.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjlo.a0d5238e.png&w=640&q=75"></a>
-<a href="https://jloscosmetic.vercel.app/" target="_blank"><img src="https://jloscosmetic.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjlo.a0d5238e.png&w=640&q=75"></a>
+<a href="https://jloscosmetic.vercel.app/" target="_blank">Ver web</a>
 </div>
 <p><strong>Next.js, TailwindCSS</strong> - JlosCosmetics Business Blog Page.</p>
 </td>
@@ -109,5 +109,5 @@
 </table>
 
 <p align="center">
-<a href="https://github.com/your-username?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+<a href="https://github.com/RonnyToledo?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
