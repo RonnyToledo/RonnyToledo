@@ -71,7 +71,7 @@
 <td width="50%">
 <h3 align="center">Derivatto</h3>
 <div align="center">
-<a href="https://github.com/RonnyToledo/Derivatto" target="_blank"><img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
+<a href="https://github.com/RonnyToledo/Derivatto" target="_blank"><img src="https://raw.githubusercontent.com/RonnyToledo/Derivatto/refs/heads/main/assets/Icons/Avatars/PNG/avatar_rounded.png"></a>
 <a href="https://derivatto.expo.app" target="_blank">Ver web<a>
 </div>
 <p><strong>Next.js, TailwindCSS</strong> - Gamified application for teaching university mathematics concepts to students.</p>
