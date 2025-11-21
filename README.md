@@ -75,7 +75,7 @@
 <br />
    <a href="https://derivatto.expo.app" target="_blank">Ver web<a>
 </div>
-<p><strong>Next.js, TailwindCSS</strong> - Gamified application for teaching university mathematics concepts to students.</p>
+<p><strong>React Native, Expo, Supabase</strong> - Gamified application for teaching university mathematics concepts to students.</p>
 </td>
 
 <td width="50%">
@@ -85,7 +85,7 @@
 <br />
    <a href="https://roumenu.vercel.app" target="_blank">Ver web</a>
 </div>
-<p><strong>Next.js, TailwindCSS</strong> - Website for online product catalogs for selling products to customers, with shopping cart, reviews, CEO and marketing strategies.</p>
+<p><strong>Next.js, TailwindCSS, Supabase</strong> - Website for online product catalogs for selling products to customers, with shopping cart, reviews, CEO and marketing strategies.</p>
 </td>
 </tr>
 
@@ -97,7 +97,7 @@
 <br />
    <a href="https://rouadmin.vercel.app" target="_blank">Ver web</a>
 </div>
-<p><strong>Next.js, TailwindCSS</strong> - Catalog control system for store administrators with services in RouMenu.</p>
+<p><strong>Next.js, TailwindCSS, Supabase</strong> - Catalog control system for store administrators with services in RouMenu.</p>
 </td>
 
 <td width="50%">
