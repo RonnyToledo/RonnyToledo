@@ -1,117 +1,163 @@
-<!-- <img src="https://www.facebook.com/photo/?fbid=315412657727009&set=a.109628778305399"> -->
+Hi, I'm Ronny Toledo
 
-<h1 align="center"><b>Hi , I'm Ronny Toledo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+Automation Engineer | Full Stack Developer
+
+I combine my background in Automation Engineering with hands-on experience designing and developing web and mobile applications. I enjoy solving technical problems, building digital products, and turning ideas into scalable solutions.
+
+""Portfolio" (https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=googlechrome&logoColor=white)" (https://ronnytoledo.github.io/Portafolio)
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)" (https://www.linkedin.com/in/ronny-toledo-705857259)
+""Email" (https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white)" (mailto:ronnytoledo87@gmail.com)
+
+---
+
+About Me
+
+- Software developer and founder of RouDev, focused on custom software and digital solutions.
+- Background in Automation Engineering, industrial control systems, and electrical installations.
+- Experience developing full-stack web applications and mobile solutions.
+- Interested in software architecture, user experience, automation, and technology-driven businesses.
+- I enjoy managing projects from requirements analysis and design to implementation and deployment.
+
+Tech Stack
+
+Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>Mobile Development
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+</p>Backend & Database
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
+</p>Tools & Deployment
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+</p>Engineering
+
+- Industrial Automation and Control Systems
+- Electrical Installations
+- Technical Support and Troubleshooting
+- Preventive and Corrective Maintenance
+- Technical Analysis and Problem Solving
+
+---
+
+Featured Projects
+
+RouDev — Software Development Studio
+
+Founder · Developer · 2025 – Present
+
+A software development initiative focused on creating custom applications and technology solutions for businesses.
+
+""Website" (https://img.shields.io/badge/Website-Visit-blue?style=flat&logo=vercel)" (https://roudev.vercel.app)
+
+RouMenu — Digital Commerce Platform
+
+A SaaS platform for businesses to create and manage digital catalogs, showcase products, receive orders, and improve their online presence.
+
+- Public digital catalogs and product management.
+- Shopping cart and order workflows.
+- Business administration and subscription plans.
+- Inventory, product visibility, and business management features.
+
+""Website" (https://img.shields.io/badge/Website-Visit-blue?style=flat&logo=vercel)" (https://roumenu.vercel.app)
+""GitHub" (https://img.shields.io/badge/Repository-View-black?style=flat&logo=github)" (https://github.com/RonnyToledo/rouMenu)
+
+RouAdmin — Business Management System
+
+Administrative platform connected to RouMenu, designed to manage products, categories, inventory, sales, users, and business operations.
+
+""Website" (https://img.shields.io/badge/Website-Visit-blue?style=flat&logo=vercel)" (https://rouadmin.vercel.app)
+""GitHub" (https://img.shields.io/badge/Repository-View-black?style=flat&logo=github)" (https://github.com/RonnyToledo/adminWebShop)
+
+Derivatto — Educational Mobile Application
+
+A gamified educational application designed to help students learn university-level mathematics through interactive experiences.
+
+Technologies: React Native, Expo, Supabase.
+
+""Website" (https://img.shields.io/badge/Website-Visit-blue?style=flat&logo=expo)" (https://derivatto.expo.app)
+""GitHub" (https://img.shields.io/badge/Repository-View-black?style=flat&logo=github)" (https://github.com/RonnyToledo/Derivatto)
+
+JlosCosmetics — Business Website
+
+A commercial web project developed to support a cosmetics business through an online presence and content publishing.
+
+Technologies: Next.js, React, Tailwind CSS.
+
+""Website" (https://img.shields.io/badge/Website-Visit-blue?style=flat&logo=vercel)" (https://jloscosmetic.vercel.app)
+""GitHub" (https://img.shields.io/badge/Repository-View-black?style=flat&logo=github)" (https://github.com/RonnyToledo/jlo)
+
+---
+
+Professional Experience
+
+Founder & Developer — RouDev
+2025 – Present
+
+- Creation of custom software and application solutions.
+- Technical design and deployment of business-oriented solutions.
+- Project management from requirements gathering to implementation.
+- Development of user interfaces focused on usability and user experience.
+
+Developer / Designer — RouMenu
+2025
+
+- Development of a digital platform focused on commerce, marketing, and content.
+- Design of an autonomous architecture for content administration.
+- Improvement of commercial communication through functional design solutions.
+
+Automation Specialist — Jardines del Rey Airport
+
+- Technical and operational support for industrial control and automation systems.
+- Preventive and corrective maintenance to ensure infrastructure continuity.
+- Coordination of technical incidents in demanding operational environments.
+
+---
+
+Education
+
+Automatic Engineering
+Central University "Marta Abreu" of Las Villas (UCLV)
+April 2022 – July 2025
+
+---
+
+GitHub Statistics
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ronny+Toledo,;Front-End+Developer,;Ing+Automatic+Student,;Love+to+learn+new+stuffs..<3">
-</p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RonnyToledo&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="Ronny's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyToledo&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />
+</p>---
 
+Let's Connect
 
-<br>
+I'm interested in collaborating on software projects, developing innovative products, and exploring opportunities in software engineering and automation.
 
+- Portfolio: https://ronnytoledo.github.io/Portafolio
+- LinkedIn: https://www.linkedin.com/in/ronny-toledo-705857259
+- Email: ronnytoledo87@gmail.com
+- GitHub: https://github.com/RonnyToledo
 
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>
-
-- **Framworks**:
-
-   ![Next.js](https://img.shields.io/badge/Next-%23E34F26.svg?style=for-the-badge&logo=nextjs&logoColor=white)
- ![React](https://img.shields.io/badge/React-%23327FC7.svg?style=for-the-badge&logo=react&logoColor=blue)
- ![React](https://img.shields.io/badge/React-%23054020.svg?style=for-the-badge&logo=react&logoColor=blue)
- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%234285F4.svg?style=for-the-badge&logo=tailwind&logoColor=white)
- ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23054020.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
- ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23327FC7.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
- ![Angular](https://img.shields.io/badge/Angular-%23327FC7.svg?style=for-the-badge&logo=angular&logoColor=white)
-
-<br>
-
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Vercel](https://img.shields.io/badge/Vercel-%23327FC7.svg?style=for-the-badge&logo=vercel&logoColor=green)
-    ![Netlify](https://img.shields.io/badge/Netlify-%23E34F26.svg?style=for-the-badge&logo=netlify&logoColor=red)
-
-<br>
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-</p>
-
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
-
-- :school: I am a `Junior` at [Faculty of Ing Electric](https://www.uclv.edu.cu/facultades/facultad-de-ingenieria-electrica) at ["Marta Abreu" University (UCLV)](https://www.uclv.edu.cu/).
-- :technologist: I love using Software as a solution for every `Problem`.
-- :student: I am currently learning `Ing. Automatic'.
-- :nerd_face: Always `learning new things`.
-<br>
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Derivatto</h3>
-<div align="center">
-<a href="https://github.com/RonnyToledo/Derivatto" target="_blank"><img width="40%" heigth="40%" style="border-radius:25px;" src="https://raw.githubusercontent.com/RonnyToledo/Derivatto/refs/heads/main/assets/Icons/Avatars/PNG/avatar_rounded.png"></a>
-<br />
-   <a href="https://derivatto.expo.app" target="_blank">Ver web<a>
-</div>
-<p><strong>React Native, Expo, Supabase</strong> - Gamified application for teaching university mathematics concepts to students.</p>
-</td>
-
-<td width="50%">
-<h3 align="center">RouMenu</h3>
-<div align="center">
-<a href="https://github.com/RonnyToledo/rouMenu" target="_blank"><img  width="40%" heigth="40%"  style="border-radius:25px;" src="https://res.cloudinary.com/dbgnyc842/image/upload/c_crop,w_600,h_600,ar_1:1/v1763566308/Identidades/Generated_Image_November_19_2025_-_10_19AM_1_inwecg.png"></a>
-<br />
-   <a href="https://roumenu.vercel.app" target="_blank">Ver web</a>
-</div>
-<p><strong>Next.js, TailwindCSS, Supabase</strong> - Website for online product catalogs for selling products to customers, with shopping cart, reviews, CEO and marketing strategies.</p>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<h3 align="center">RouAdmin</h3>
-<div align="center">
-<a href="https://github.com/RonnyToledo/adminWebShop" target="_blank"><img  width="40%" heigth="40%" style="border-radius:25%;" src="https://res.cloudinary.com/dbgnyc842/image/upload/c_crop,w_600,h_600,ar_1:1/v1763566308/Identidades/Generated_Image_November_19_2025_-_10_19AM_1_inwecg.png"></a>
-<br />
-   <a href="https://rouadmin.vercel.app" target="_blank">Ver web</a>
-</div>
-<p><strong>Next.js, TailwindCSS, Supabase</strong> - Catalog control system for store administrators with services in RouMenu.</p>
-</td>
-
-<td width="50%">
-<h3 align="center">JlosCosmetics Blog</h3>
-<div align="center">
-<a href="https://github.com/RonnyToledo/jlo" target="_blank"><img style="border-radius:25%;"  width="40%" heigth="40%" src="https://jloscosmetic.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjlo.a0d5238e.png&w=640&q=75"></a>
-<br />
-   <a href="https://jloscosmetic.vercel.app/" target="_blank">Ver web</a>
-</div>
-<p><strong>Next.js, TailwindCSS</strong> - JlosCosmetics Business Blog Page.</p>
-</td>
-</tr>
-</table>
+---
 
 <p align="center">
-<a href="https://github.com/RonnyToledo?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <i>Building useful things through engineering and code.</i>
 </p>
